@@ -20,6 +20,9 @@ git clone https://github.com/your-username/crypto-tracker.git
 
 cd crypto-tracker
 
+# Install dependencies:
+
+npm install
 # In the project directory, you can run:
 
 ## Start the development server:
